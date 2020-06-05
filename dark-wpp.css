@@ -402,4 +402,6 @@ html[dir] ._3qx7_:after, html[dir] ._1iFv8:after {
 .m61XR {
     font-size: 14px
 }
-
+body #startup {
+	background-color: black;
+}
